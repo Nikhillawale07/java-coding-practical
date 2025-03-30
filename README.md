@@ -1,2 +1,2 @@
-# java-coding-practicle
-java coding practicle
+# java-coding-practical
+java coding practical
